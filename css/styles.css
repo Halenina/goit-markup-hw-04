@@ -64,7 +64,7 @@ ul {
     align-items: center;
 }
 
-.container-button {
+.container{
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
@@ -72,9 +72,9 @@ ul {
 
 .menu{
     display: flex;
-        align-items: center;
+    align-items: center;
     gap: 24px;
-        justify-content: center;
+    justify-content: center;
 }
 
 .page-nav {
